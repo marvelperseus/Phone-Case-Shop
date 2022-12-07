@@ -19,7 +19,7 @@
     "buefy": "^0.6.3",
     "cosmicjs": "^3.0.9",
     "dotenv": "^5.0.0",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "nuxt": "^1.0.0",
     "stripe": "^5.4.0",
     "vue-stripe-checkout": "0.0.4",
